@@ -1,2 +1,2 @@
 # randomWeb3
-web3 Node examples and scripts
+web3 Ethereum Nodejs examples and scripts
